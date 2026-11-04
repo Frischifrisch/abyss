@@ -1,5 +1,5 @@
 {
-    "version": "3.1.61",
+    "version": "3.1.62",
     "description": "轻量、高性能的 SSH 工具 | A lightweight yet high-performance SSH tool",
     "homepage": "https://ishell.cc",
     "license": {
@@ -7,8 +7,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ishell-down.oss-cn-beijing.aliyuncs.com/ishellpro_3.1.61_x64-setup.exe",
-            "hash": "06fcdd0e4a46c52e6cf054bbfe66e4e0d1147d7740f1a2932c073c7adf81eaea"
+            "url": "https://ishell-down.oss-cn-beijing.aliyuncs.com/ishellpro_3.1.62_x64-setup.exe",
+            "hash": "76d5d7a808d3a52e885315245fe435cd8300b5d5830e11628838791768bbb09c"
         }
     },
     "shortcuts": [
