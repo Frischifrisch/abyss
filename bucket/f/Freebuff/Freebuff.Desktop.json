@@ -1,5 +1,5 @@
 {
-    "version": "0.0.198",
+    "version": "0.0.199",
     "description": "桌面端免费代码智能体 | The free coding agent on your desktop",
     "homepage": "https://freebuff.com/desktop",
     "license": {
@@ -8,7 +8,7 @@
     "architecture": {
         "64bit": {
             "url": "https://freebuff.com/api/desktop/download/windows#/dl.exe",
-            "hash": "09193a10e5896a714ff5bfadd0e8d2c07897c4ab07e60eef3144cabd039a4847"
+            "hash": "6b2108753307a3c9a7cf9d5984ee726fa181a3a17ed08f6675450d6cf8d565bf"
         }
     },
     "shortcuts": [
