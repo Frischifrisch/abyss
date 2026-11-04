@@ -1,5 +1,5 @@
 {
-    "version": "3.2.1",
+    "version": "3.3.0.81",
     "description": "Z-Library —— 世界上最大的电子书图书馆 | Z-Library - the world's largest e-book library",
     "homepage": "https://go-to-library.sk",
     "license": {
@@ -8,7 +8,7 @@
     "architecture": {
         "64bit": {
             "url": "https://s3proxy-alp.cdn-zlib.sk/swfs_second_public_files/soft/desktop/Z-Library-latest.exe",
-            "hash": "5fbd0105e79a6da46afd3a11dafa961aa2b1c493df769fa39abd8140151aef9f"
+            "hash": "e3ec416653cb37e2476101f77be115fdac8bdb5298c6db7628955530ffcaf32a"
         }
     },
     "shortcuts": [
